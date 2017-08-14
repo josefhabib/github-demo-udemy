@@ -1,11 +1,13 @@
 # Project Title
 
 ## Subheading 1
-Change that will be saved into local git repo
+Change was saved into local git repo
 
 ## Subheading 2
+Change was staged only
 
 ## Subheading 3
+Change will be saved to working directory
 
 ## Subheading 4
 
